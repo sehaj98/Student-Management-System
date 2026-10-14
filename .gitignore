@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Local student data and reports
+students.csv
+students.csv.bak
+student_report.csv
